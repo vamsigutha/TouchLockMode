@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Touch Lock Mode</string>
+    <string-array name="taps">
+        <item>Single Tap</item>
+        <item>Double Tap</item>
+        <item>Long Press</item>
+    </string-array>
+
+    <string-array name="security">
+        <item>None</item>
+        <item>Use device pattern/pin/fingerprint</item>
+    </string-array>
+</resources>
